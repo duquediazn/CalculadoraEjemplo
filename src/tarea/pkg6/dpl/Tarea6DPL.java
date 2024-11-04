@@ -29,6 +29,8 @@ public class Tarea6DPL {
         } catch (ArithmeticException e) {
             System.out.println("Error en la división: " + e.getMessage());
         }
+        
+        System.out.println("¡Mensaje para el segundo commit!");
     }
     
 }
